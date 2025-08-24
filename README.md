@@ -1,7 +1,7 @@
 # Chat (FastAPI + Vite React)
 Ріал‑тайм мессенджер для приватних діалогів з підтримкою файлів і станами повідомлень
 
-## Stack:
+## Стек:
 - Backend: FastAPI, SQLAlchemy, JWT (OAuth2 password flow), WebSocket
 - Frontend: React + TypeScript + Vite
 - Transport: WebSocket (new_message, conversation_updated, message_edited, message_deleted)
